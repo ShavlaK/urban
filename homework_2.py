@@ -1,0 +1,5 @@
+homework_done = int(12)
+hours_spent = float(1.5)
+course_name = str('Python')
+task_cmpltn_time = float(homework_done/hours_spent)
+print('Python, всего задач:',homework_done,', затрачено часов:',hours_spent,', среднее время выполнения',task_cmpltn_time,'часа')
